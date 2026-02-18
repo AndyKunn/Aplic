@@ -1,0 +1,47 @@
+{
+  "username": "Andruha",
+  "email": "AndrejsDjomins2007@gmail.com",
+  "password": "1122334455",
+  "punkti": 90,
+  "izaicinajumi": [
+    {
+      "title": "salto nazad",
+      "sport": "Skriešana",
+      "description": "LMAO",
+      "target": "6.000.000",
+      "unit": "KM",
+      "deadline": "17.02.1997",
+      "datums": "18.02.2026"
+    },
+    {
+      "title": "123",
+      "sport": "Peldēšana",
+      "description": "123",
+      "target": "123",
+      "unit": "123",
+      "deadline": "123",
+      "datums": "18.02.2026"
+    }
+  ],
+  "rezultati": [],
+  "sasniegumi": [
+    {
+      "title": "Laipni lūgts!",
+      "description": "Reģistrējies aplikācijā",
+      "punkti": 50,
+      "datums": "18.02.2026 15:15"
+    },
+    {
+      "title": "Izaicinājums izveidots!",
+      "description": "Izveidots: salto nazad",
+      "punkti": 20,
+      "datums": "18.02.2026 15:16"
+    },
+    {
+      "title": "Izaicinājums izveidots!",
+      "description": "Izveidots: 123",
+      "punkti": 20,
+      "datums": "18.02.2026 15:16"
+    }
+  ]
+}

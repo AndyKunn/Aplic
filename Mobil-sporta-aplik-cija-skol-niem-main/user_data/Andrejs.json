@@ -1,0 +1,61 @@
+{
+  "username": "Andrejs",
+  "email": "andreidshower@gmail.com",
+  "password": "1122334455",
+  "punkti": 1000020,
+  "izaicinajumi": [
+    {
+      "title": "Skrien 5 km",
+      "sport": "Skriešana",
+      "description": "TIPO BEGU",
+      "target": "5",
+      "unit": "KM",
+      "deadline": "19.03.2026",
+      "datums": "18.02.2026"
+    },
+    {
+      "title": "123",
+      "sport": "Skriešana",
+      "description": "",
+      "target": "100",
+      "unit": "km",
+      "deadline": "19.02.2026",
+      "datums": "18.02.2026"
+    }
+  ],
+  "rezultati": [
+    {
+      "sport": "Skriešana",
+      "value": "5",
+      "unit": "KM",
+      "note": "123",
+      "datums": "18.02.2026 15:31"
+    }
+  ],
+  "sasniegumi": [
+    {
+      "title": "Laipni lūgts!",
+      "description": "Reģistrējies aplikācijā",
+      "punkti": 50,
+      "datums": "18.02.2026 15:29"
+    },
+    {
+      "title": "Izaicinājums izveidots!",
+      "description": "Izveidots: Skrien 5 km",
+      "punkti": 20,
+      "datums": "18.02.2026 15:30"
+    },
+    {
+      "title": "Rezultāts reģistrēts!",
+      "description": "Skriešana: 5 KM",
+      "punkti": 10,
+      "datums": "18.02.2026 15:31"
+    },
+    {
+      "title": "Izaicinājums izveidots!",
+      "description": "Izveidots: 123",
+      "punkti": 20,
+      "datums": "18.02.2026 15:34"
+    }
+  ]
+}
